@@ -1,6 +1,8 @@
 body {
     font-family: 'Courier New', Courier, monospace, sans-serif;
     background: linear-gradient(135deg, #c3c3ce, #7a75a0);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
